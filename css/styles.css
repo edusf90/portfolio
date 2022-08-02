@@ -350,7 +350,7 @@ p {
 @media (max-width: 560px) {
   .bannerTexto {
     font-size: 3vh;
-    padding: 0 50px 0 50px;
+    padding: 0 50px 0 51px;
   }
 }
 
